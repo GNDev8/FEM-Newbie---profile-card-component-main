@@ -15,3 +15,6 @@
 .DS_Store
 
 .prettierignore
+Classeur1.xlsx
+.gitignore
+~$Classeur1.xlsx
